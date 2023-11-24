@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Benki accounts related Prod APIs "
   contactDetails:
     name: "Jala Doe - Developer"
-    email: "benki@jala.com"
+    email: "{cipher}30f62f6940d62308138cd29a6fa79f87c8e06e696ec2600e8d1e6529c27e3408"
   onCallSupport:
     - (254) 555-1890
     - (254) 523-4567
